@@ -1,0 +1,31 @@
+.card:hover {
+    box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
+}
+.card{
+height: 20em;
+}
+.img1{
+    width:100px;
+    height:70px;
+    
+}
+
+.card3{
+    margin-top:20px;
+}
+
+.column{
+    
+	cursor: pointer;
+	transition: transform 0.5s;   
+}
+.column:hover{
+transform: translateY(-10px);
+}
+.img2{
+    width:100px;
+    height:200px;
+}
+body{
+    background-image: radial-gradient(lightblue);
+}
